@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="expressionHistory">
+		<item key="expressionHistoryEntry_0" value="6&#x0D;&#x0A;"/>
+		<item key="expressionHistoryEntryCount" value="1"/>
+	</section>
+	<section name="conditionHistory">
+		<item key="conditionHistoryEntry_0" value="if (num == 6) {&#x0D;&#x0A;&#x09;System.out.println(&quot;Br je 6&quot;);&#x0D;&#x0A;} else {&#x0D;&#x0A;&#x09;System.out.println(&quot;Nzm koji je br&quot;);&#x0D;&#x0A;}"/>
+		<item key="conditionHistoryEntryCount" value="8"/>
+		<item key="conditionHistoryEntry_1" value="if (num == 6) {&#x0D;&#x0A;&#x09;System.out.println(&quot;Br je 6&quot;);&#x0D;&#x0A;} else {&#x0D;&#x0A;&#x09;System.out.println(&quot;Ne znam koji je br&quot;);&#x0D;&#x0A;}"/>
+		<item key="conditionHistoryEntry_2" value="if (num == 6) {&#x0D;&#x0A;&#x09;System.out.println(&quot;Broj je 6&quot;);&#x0D;&#x0A;} else {&#x0D;&#x0A;&#x09;System.out.println(&quot;Ne znam koji je broj&quot;);&#x0D;&#x0A;}"/>
+		<item key="conditionHistoryEntry_3" value="if (num == 6) {&#x0D;&#x0A;&#x09;System.out.println(&quot;Broj je 6&quot;);&#x0D;&#x0A;} else {&#x0D;&#x0A;&#x09;System.out.println(&quot;Ne znam koji je broj.);&#x0D;&#x0A;}"/>
+		<item key="conditionHistoryEntry_4" value="if (num==5)&#x0D;&#x0A;&#x09;System.out.println(num);&#x0D;&#x0A;else&#x0D;&#x0A;&#x09;return false;"/>
+		<item key="conditionHistoryEntry_5" value="if (num==5)&#x0D;&#x0A;&#x09;System.out.println(num);"/>
+		<item key="conditionHistoryEntry_6" value="if(num &lt; 5)&#x0D;&#x0A;&#x09;return false;"/>
+		<item key="conditionHistoryEntry_7" value="if(paranBroj.equals(&quot;paran&quot;)) &#x0D;&#x0A;&#x09;return true;"/>
+	</section>
+</section>

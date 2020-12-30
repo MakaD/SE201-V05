@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="main.SingleObject"/>
+<fullyQualifiedTypeName name="org.junit.AfterClass"/>
+<fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="ParanClass"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="MojaKlasa"/>
+<fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="Base.GodStazaException"/>
+<fullyQualifiedTypeName name="Base.PozicijaMenadzera"/>
+<fullyQualifiedTypeName name="Base.Menadzeri.PozicijaMenadzera"/>
+<fullyQualifiedTypeName name="Base.ZaposleniUtil"/>
+<fullyQualifiedTypeName name="Base.ZaposleniUtilImpl"/>
+<fullyQualifiedTypeName name="java.lang.Comparable"/>
+<fullyQualifiedTypeName name="Base.HijerarhijaProgramera"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="Base.HijerarhijaProgrameraComparator"/>
+<fullyQualifiedTypeName name="Base.ProgarmeriComparator"/>
+<fullyQualifiedTypeName name="Base.ProgrameriComparator"/>
+<fullyQualifiedTypeName name="Base.Menadzeri"/>
+<fullyQualifiedTypeName name="Base.Programeri"/>
+<fullyQualifiedTypeName name="Fil"/>
+<fullyQualifiedTypeName name="java.lang.StrictMath"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="Sastojak"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="Torta"/>
+<fullyQualifiedTypeName name="Cokolada"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="CentralniSistem"/>
+</qualifiedTypeNameHistroy>

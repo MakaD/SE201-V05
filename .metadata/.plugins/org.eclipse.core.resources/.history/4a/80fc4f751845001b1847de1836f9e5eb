@@ -1,0 +1,27 @@
+package se201.l12.indv;
+
+import java.util.Arrays;
+
+public class SE201L12Indv {
+
+    int[] array = {0, 16, 4, 3, 5, 2};
+
+    public static void main(String[] args) {
+
+    }
+
+    public int brojIspitnihPoena() {
+
+        Arrays.sort(array);
+        int sum = 0;
+        for (int i = 1; i < array.length; i++) {
+            sum += array[i];
+
+        }
+        return sum;
+    }
+    public double brojPoena() {
+    	return brojIspitnihPoena() * 0.4;
+    }
+
+}

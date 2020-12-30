@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\makyc\Downloads\SE201-L12-indv"/>
+		<item value="C:\Users\makyc\Downloads\SE201-V12-3914-NikolaNikolic\SE201-V12"/>
+		<item value="C:\Users\makyc\Downloads\SE201-V12-3914-NikolaNikolic"/>
+		<item value="C:\Users\makyc\Downloads\Prakticni deo KI104 Ispita Prvi Zadatak"/>
+		<item value="C:\Users\makyc\Downloads\Zad.3"/>
+		<item value="C:\Users\makyc\Downloads\Zad.2"/>
+		<item value="C:\Users\makyc\Downloads\PrakticnDeoIspita"/>
+		<item value="C:\Users\makyc\Downloads\TestProjekat"/>
+		<item value="C:\Users\makyc\Downloads\Jovan DZ\Lek 6 Dom Zad 1"/>
+		<item value="C:\Users\makyc\Downloads\Jovan DZ\Lek 5 Dom Zad 4"/>
+		<item value="C:\Users\makyc\Downloads\Jovan DZ\Lek 5 Dom Zad 1"/>
+		<item value="C:\Users\makyc\Downloads\Jovan DZ\Lek 4 Dom Zad 2"/>
+		<item value="C:\Users\makyc\Downloads\Jovan DZ\Lek 3 Dom Zad 1"/>
+		<item value="C:\Users\makyc\Downloads\Jovan DZ\Lek 2 Dom Zad 1"/>
+		<item value="C:\Users\makyc\Downloads\Jovan DZ\Lek 1 Dom Zad 2"/>
+		<item value="C:\Users\makyc\Downloads\Jovan DZ\Lek 1 Dom Zad 1"/>
+		<item value="C:\Users\makyc\Downloads\Projekat KI104"/>
+		<item value="C:\Users\makyc\Downloads\Metroplitan-master\Projekat KI104"/>
+		<item value="C:\Users\makyc\Downloads\Jovan-DZ\Metropolitan-master\Lek 3 Dom Zad 1"/>
+		<item value="C:\Users\makyc\Downloads\Metropolitan-master\KI104 Lek 1 Dom Zad 2"/>
+		<item value="C:\Users\makyc\Downloads\Metropolitan-master\Metropolitan-master\Probni Ispit\ProbniIspit Zad 3"/>
+		<item value="C:\Users\makyc\Downloads\Metropolitan-master\Metropolitan-master\Probni Ispit\Probni ispit Zad 2"/>
+		<item value="C:\Users\makyc\Downloads\Metropolitan-master\Metropolitan-master\Probni Ispit\ProbniIspit Zad 1"/>
+		<item value="C:\Users\makyc\Downloads\Metropolitan-master\Metropolitan-master\Projekat A KI103"/>
+	</list>
+	<section name="NewWizardAction">
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.jdt.ui.wizards.JavaProjectWizard"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+		</list>
+	</section>
+</section>
